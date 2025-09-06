@@ -2,7 +2,7 @@
 
 int main() {
     int a = 5;
-    int b = 3
+    int b = 3;
     int sum = a + b;
 
     printf("Hello! This is a trivial C program.\n");
